@@ -26,15 +26,6 @@ I lead People & Talent at **Nelo**, a LATAM fintech (~60 people, offices in CDMX
 
 I'm not an engineer, but I'm learning to build stuff. Dashboards, internal tools, automations — the kind of things that make recruiting less chaotic and more data-driven. If it can be tracked, measured, or automated, I'll probably try.
 
-Some things I've shipped:
-
-- **Recruiting dashboards** — HTML/CSS, dark theme, real KPIs, built for weekly syncs with leadership
-- **NeloBridge** — an integration layer connecting Juicebox → Ashby → Gmail to fix the data mess in recruiting ops
-- **Interactive org charts** — directory + chart + stats views, deployed on Netlify
-- **[Diván Laboral GPT](https://chatgpt.com/g/g-681d1f2647ec8191a7a3ef994fd8173b-divan-laboral-feedback-de-tu-cv)** — a custom GPT to help people improve their CVs
-- **CV generators** — polished Word & HTML templates for internal use
-- **AI workflows** — Claude-powered pipelines for candidate comms, sentiment analysis, and labor law compliance
-
 ## I write too
 
 Two Substacks, both in Spanish:
