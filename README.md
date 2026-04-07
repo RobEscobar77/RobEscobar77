@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26530892/README.md)<div align="center">
+<div align="center">
 
 # Hola, soy Rob #
 
