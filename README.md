@@ -2,7 +2,7 @@
 
 # Hola, soy Rob #
 
-**Head of People @ [Nelo](https://nelo.co) · CDMX 🇲🇽 · NYC 🇺🇸**
+**Recruiter @ [Nelo](https://nelo.co) · CDMX 🇲🇽 · NYC 🇺🇸**
 
 Recruiter. Runner. Writer. 
 
